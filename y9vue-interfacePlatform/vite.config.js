@@ -36,7 +36,7 @@ export default (serve) => {
         },
         server: {
             port: 7070,
-            // host: 'test.youshengyun.com',   // 局域网内测试【填写你的当前IP】
+            // host: '127.0.0.1',   // 局域网内测试【填写你的当前IP】
             proxy: {
                 '/.*/sso': {
                     target: process.env.VUE_APP_SSO,

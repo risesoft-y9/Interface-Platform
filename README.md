@@ -188,6 +188,32 @@ webapp -- 后端工程
 | 22 | <a href="https://vue.youshengyun.com/files/Mariadb数据库适配文档.pdf" target="_blank">Mariadb数据库适配文档</a>       |
 | 23 | <a href="https://vue.youshengyun.com/files/OceanBase数据库适配文档.pdf" target="_blank">OceanBase数据库适配文档</a>   |
 
+## 接口管理平台截图
+
+#### 界面截图
+
+<table>
+    <tr>
+        <td><img src="https://vue.youshengyun.com/files/interfacePlatform/img/1.png"></td>
+        <td><img src="https://vue.youshengyun.com/files/interfacePlatform/img/2.png"></td>
+    </tr>
+    <tr>
+        <td><img src="https://vue.youshengyun.com/files/interfacePlatform/img/3.png"></td>
+        <td><img src="https://vue.youshengyun.com/files/interfacePlatform/img/4.png"></td>
+    </tr>
+    <tr>
+        <td><img src="https://vue.youshengyun.com/files/interfacePlatform/img/5.png"></td>
+        <td><img src="https://vue.youshengyun.com/files/interfacePlatform/img/6.png"></td>
+    </tr>
+    <tr>
+        <td><img src="https://vue.youshengyun.com/files/interfacePlatform/img/7.png"></td>
+        <td><img src="https://vue.youshengyun.com/files/interfacePlatform/img/8.png"></td>
+    </tr>
+    <tr>
+        <td><img src="https://vue.youshengyun.com/files/interfacePlatform/img/9.png"></td>
+        <td><img src="https://vue.youshengyun.com/files/interfacePlatform/img/10.png"></td>
+    </tr>
+</table>
 
 ## 依赖开源项目
 
